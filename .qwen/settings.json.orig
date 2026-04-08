@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(D:\\文件文档\\毕业设计和论文\\数据集\\landcover.ai.v1/**)"
+    ]
+  }
+}
